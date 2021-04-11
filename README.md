@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
-<h3 align="center">Software Developer as a Professional Freelancerr</h3>
+<h3 align="center">Software Developer as a Professional Freelancer</h3>
 
 <h4 align="center"> I ❤ Coding</h4>
 
