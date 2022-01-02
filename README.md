@@ -6,11 +6,11 @@
 <!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=aozfen" alt="aozfen" /> </p>-->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aozfen&layout=compact" alt="aozfen" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aozfen&layout=compact&theme=radical" alt="aozfen" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aozfen&show_icons=true" alt="aozfen" />
+<img src="https://github-readme-stats.vercel.app/api?username=aozfen&show_icons=true&theme=radical" alt="aozfen" />
 </p>
 
 <hr />
