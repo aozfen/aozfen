@@ -50,7 +50,10 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode)
 
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aozfen&" alt="aozfen" /></p>
+<b>Note: </b> I did not include <b>HTML</b> and <b>CSS</b> in the information. Assuming the tools and frameworks I use, yes I do 😊🚀
+<br>
+<br>
+<p align="left" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aozfen&" alt="aozfen" /></p>
 <!--<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aozfen&show_icons=true&locale=en" alt="aozfen" /></p>-->
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aozfen&show_icons=true&locale=en&layout=compact" alt="aozfen" /></p>
 
